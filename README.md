@@ -1,9 +1,9 @@
 ## Full Stack Trivia API Project 
 
 - [Overview](#project-overview)
-- [Getting Started](#Getting Started)
+- [Getting Started](#Getting-Started)
 - [Testing](#Testing)
-- [API Documentation](#API Documentation)
+- [API Documentation](#API-Documentation)
 
 ### Project Overview 
 
