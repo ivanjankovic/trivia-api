@@ -50,13 +50,15 @@ class Question(db.Model):
     db.session.commit()
 
   def format(self):
-    return {
+    new_question = {
       'id': self.id,
       'question': self.question,
       'answer': self.answer,
       'category': self.category,
       'difficulty': self.difficulty
     }
+    # print(None in new_question.values())
+    return new_question
 
 '''
 Category
