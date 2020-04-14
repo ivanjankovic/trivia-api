@@ -102,7 +102,7 @@ python test_flaskr.py
 - [DELETE '/questions/{question_id}'](#DELETE-'/questions/{question_id}')
 - [POST '/questions/search'](#POST-'/questions/search')
 - [POST '/questions'](#POST-'/questions')
-- [POST '/quizzes''](#POST-'/quizzes'')
+- [POST '/quizzes'](#POST-'/quizzes')
 
 #### GET '/categories'
 
