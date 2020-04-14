@@ -91,16 +91,18 @@ python test_flaskr.py
 
 ## API Documentation
 
+- [Endpoints](#Endpoints)
+- [Error Handling](#Error-Handling)
+
 ### Endpoints
 
-```
-GET '/categories'
-GET '/questions'
-POST '/questions'
-POST '/categories/{category_id}/questions'
-DELETE '/questions/{question_id}'
-POST '/quizzes'
-```
+- [GET '/categories'](#GET-'/categories')
+- [GET '/questions'](#GET-'/questions')
+- [GET '/categories/{category_id}/questions'](#GET-'/categories/{category_id}/questions')
+- [DELETE '/questions/{question_id}'](#DELETE-'/questions/{question_id}')
+- [POST '/questions/search'](#POST-'/questions/search')
+- [POST '/questions'](#POST-'/questions')
+- [POST '/quizzes''](#POST-'/quizzes'')
 
 #### GET '/categories'
 
